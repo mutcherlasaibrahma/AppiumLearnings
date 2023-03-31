@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.653 s <<< FAILURE! - in TestSuite
+clickOnPreferencesBtn(mobileautomation.Appium.AppiumBasics)  Time elapsed: 0.042 s  <<< FAILURE!
+java.lang.NullPointerException
+	at mobileautomation.Appium.AppiumBasics.clickOnPreferencesBtn(AppiumBasics.java:14)
+
